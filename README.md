@@ -4,7 +4,7 @@ A SAT Prep Question Tool for students aspiring to study the SAT in fun, practica
 Current Database: 
 
 
-To pull the Databse:
++ To pull the Database:
 ```
 //schema is registered under MongoDB 
 const questionSchema = new mongoose.Schema({
